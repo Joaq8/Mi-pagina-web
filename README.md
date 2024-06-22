@@ -1,7 +1,5 @@
 # Joaquin Ramirez 
 Mi pagina web 
-</style>
-</head>
 <body>
   <p>Tengo 19 años y soy estudiante del tercer semestre de Administracion en la Universidad Catolica San Pablo</p>
   <p> Personalmente, yo creo ser una persona tranquila y normal, que trata de ayudar y mejorar di a dia </p><br>
@@ -14,4 +12,3 @@ Mi pagina web
   <p> Calculo en una variable </p>
   <p> Apreciacion Artistica </p>
 </body>
-</html>
