@@ -3,7 +3,6 @@ Mi pagina web
 </style>
 </head>
 <body>
-  <h1>Joaquin Ramirez</h1>
   <p>Tengo 19 años y soy estudiante del tercer semestre de Administracion en la Universidad Catolica San Pablo</p>
   <p> Personalmente, yo creo ser una persona tranquila y normal, que trata de ayudar y mejorar di a dia </p><br>
   <br><h2> Cursos que llevo este  semestre </h2>
